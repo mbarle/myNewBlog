@@ -24,6 +24,7 @@ baseurl: "/techBlog" # the subpath of your site, e.g. /blog
 url: "https://marusa15.github.io/techBlog/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: maruabarle
 github_username:  marusa15
+theme: jekyll-theme-minima
 
 # Build settings
 markdown: kramdown
