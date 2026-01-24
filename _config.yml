@@ -25,7 +25,6 @@ url: "https://marusa15.github.io/techBlog/" # the base hostname & protocol for y
 twitter_username: maruabarle
 github_username:  marusa15
 theme: jekyll-theme-minima
-theme: minima
 
 # Build settings
 markdown: kramdown
