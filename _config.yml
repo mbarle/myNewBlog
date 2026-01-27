@@ -20,10 +20,16 @@ description: >- # this means to ignore newlines until "baseurl:"
   who are self-taught, have moved beyond web development courses and are looking
   for ways to further develop their programming skills in order to become junior 
   web developers. 
-baseurl: "/techBlog" # the subpath of your site, e.g. /blog
+baseurl: "/myNewBlog" # the subpath of your site, e.g. /blog
 url: "https://marusa15.github.io/techBlog/" # the base hostname & protocol for your site, e.g. http://example.com
+
 github_username:  mbarle
 theme: minima
+
+twitter_username: maruabarle
+github_username:  mbarle
+theme: minima
+
 
 # Build settings
 markdown: kramdown
