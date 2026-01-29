@@ -2,7 +2,15 @@ source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 
-gem "sequel" 
+
+gem "unidecode"
+
+gem "jekyll-import", github: "jekyll/jekyll-import", require: false
+gem "htmlentities"
+
+# Only SQLite3 adapter, no MySQL
+gem "sequel", require: ["sequel/core"]
+
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -28,5 +36,6 @@ gem "sequel"
 
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+gem "tzinfo-data", platforms: [:windows, :jruby]
+
 
