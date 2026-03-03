@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
-
+gem "open_uri_redirections"
 
 gem "unidecode"
 
