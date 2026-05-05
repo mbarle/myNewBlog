@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Arhiv objav
+title: Archive
 permalink: /archive/
 ---
 
