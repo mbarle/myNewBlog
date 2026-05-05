@@ -3,7 +3,7 @@ layout: post
 title: "How a Little Creativity can Improve you Mood Every Day"
 date: 2018-03-26
 category: "art"
-featured-img: /assets/sparkler.jpg
+featured-img: /assets/2018/03/parrot-collage.png
 introduction: "It all began while I got bored while soaking my feet in warm water. No book
   at hand, I grabbed my phone and checked the Web Design Weekly newsletter, which
   I rarely do. But this time, I found a really good story about a lawyer turned illustrator."
