@@ -8,6 +8,8 @@ introduction: "It all began while I got bored while soaking my feet in warm wate
   at hand, I grabbed my phone and checked the Web Design Weekly newsletter, which
   I rarely do. But this time, I found a really good story about a lawyer turned illustrator."
 ---
+![My helpful screenshot]({{ "/assets/2018/03/parrot-collage.jpg" | absolute_url }})
+
 <html><body><br />
 <em>La version f<span style="font-weight: 400;">rançaise au-desous.</span></em>
 <p>Her story resonated with me for two reasons:<br />
